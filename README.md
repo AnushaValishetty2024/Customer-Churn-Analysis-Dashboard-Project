@@ -29,11 +29,9 @@ To analyze customer behavior data and identify key factors influencing customer 
 •	Interpreted results and extracted business insights 
 
 # Dashboards
-- ["C:\Users\nalla\OneDrive\Documents\customer_churn_dashboard\Screenshot 2026-06-18 181729.png"](<a href="https://github.com/AnushaValishetty2024/Customer-Churn-Analysis-Dashboard-Project/blob/main/Screenshot%202026-06-18%20181729.png">Dashboard Image1</a>)               
-
-- ["C:\Users\nalla\OneDrive\Documents\customer_churn_dashboard\Screenshot 2026-06-18 181753.png"](<a href="https://github.com/AnushaValishetty2024/Customer-Churn-Analysis-Dashboard-Project/blob/main/Screenshot%202026-06-18%20181753.png">Dashboard Image2</a>)
-
-- ["C:\Users\nalla\OneDrive\Documents\customer_churn_dashboard\Screenshot 2026-06-18 181822.png"](<a href="https://github.com/AnushaValishetty2024/Customer-Churn-Analysis-Dashboard-Project/blob/main/Screenshot%202026-06-18%20181822.png"Dashboard Image3</a>)
+- <a href="https://github.com/AnushaValishetty2024/Customer-Churn-Analysis-Dashboard-Project/blob/main/Screenshot%202026-06-18%20181729.png">Dashboard Image1</a>  
+- <a href="https://github.com/AnushaValishetty2024/Customer-Churn-Analysis-Dashboard-Project/blob/main/Screenshot%202026-06-18%20181753.png">Dashboard Image2</a>
+- <a href="https://github.com/AnushaValishetty2024/Customer-Churn-Analysis-Dashboard-Project/blob/main/Screenshot%202026-06-18%20181822.png">Dashboard Image3</a>
 
 # Project Insight:
 •	Customers with month-to-month contracts show significantly higher churn 
