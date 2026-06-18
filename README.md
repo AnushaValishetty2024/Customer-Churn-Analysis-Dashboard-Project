@@ -29,5 +29,5 @@ To analyze customer behavior data and identify key factors influencing customer 
 # Dashboards
 Dashboard Image1 ["C:\Users\nalla\OneDrive\Documents\customer_churn_dashboard\Screenshot 2026-06-18 181729.png"](https://github.com/AnushaValishetty2024/Customer-Churn-Analysis-Dashboard-Project/blob/main/Screenshot%202026-06-18%20181729.png)
 Dashboard Image2 ["C:\Users\nalla\OneDrive\Documents\customer_churn_dashboard\Screenshot 2026-06-18 181753.png"](https://github.com/AnushaValishetty2024/Customer-Churn-Analysis-Dashboard-Project/blob/main/Screenshot%202026-06-18%20181753.png)
-Dashboard Image3 "C:\Users\nalla\OneDrive\Documents\customer_churn_dashboard\Screenshot 2026-06-18 181822.png"
+Dashboard Image3 ["C:\Users\nalla\OneDrive\Documents\customer_churn_dashboard\Screenshot 2026-06-18 181822.png"](https://github.com/AnushaValishetty2024/Customer-Churn-Analysis-Dashboard-Project/blob/main/Screenshot%202026-06-18%20181822.png)
 
