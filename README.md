@@ -17,7 +17,8 @@ To analyze customer behavior data and identify key factors influencing customer 
 •	Are long-term customers less likely to churn? 
 •	Which payment methods show higher churn rates? 
 
--Dashboard Interaction <a href="https://github.com/AnushaValishetty2024/Customer-Churn-Analysis-Dashboard-Project/blob/main/churn_dashboard.pbix">View Dashboard</a>
+# Dashboard Interaction 
+- <a href="https://github.com/AnushaValishetty2024/Customer-Churn-Analysis-Dashboard-Project/blob/main/churn_dashboard.pbix">View Dashboard</a>
 
 # Process:
 •	Collected and loaded customer dataset (CSV format) 
