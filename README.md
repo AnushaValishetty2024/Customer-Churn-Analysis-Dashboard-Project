@@ -26,4 +26,6 @@ To analyze customer behavior data and identify key factors influencing customer 
 •	Built dashboard in Power BI / Excel for visualization of churn trends and KPIs 
 •	Interpreted results and extracted business insights 
 
+# Dashboards
+
 
