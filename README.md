@@ -6,6 +6,7 @@ To analyze customer behavior data and identify key factors influencing customer 
 # Dataset Used
 - <a href="https://github.com/AnushaValishetty2024/Customer-Churn-Analysis-Dashboard-Project/blob/main/Customer_Data.csv">Dataset</a>
 - <a href="https://github.com/AnushaValishetty2024/Customer-Churn-Analysis-Dashboard-Project/blob/main/churn_dashboard.pbix">Powerbi Dataset</a>
+- <a href="https://github.com/AnushaValishetty2024/Customer-Churn-Analysis-Dashboard-Project/blob/main/eda.py">eda dataset</a>
 
 # Questions (KPIs):
 •	What is the overall customer churn rate? 
