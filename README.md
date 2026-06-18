@@ -5,6 +5,7 @@ Interactive Power BI dashboard developed to analyze customer churn patterns, cus
 To analyze customer behavior data and identify key factors influencing customer churn. The goal is to help businesses understand why customers leave and improve retention strategies using data-driven insights.>
 # Dataset Used
 - <a href="https://github.com/AnushaValishetty2024/Customer-Churn-Analysis-Dashboard-Project/blob/main/Customer_Data.csv">Dataset</a>
+- <a href="https://github.com/AnushaValishetty2024/Customer-Churn-Analysis-Dashboard-Project/blob/main/churn_dashboard.pbix">Powerbi Dataset</a>
 
 # Questions (KPIs):
 •	What is the overall customer churn rate? 
