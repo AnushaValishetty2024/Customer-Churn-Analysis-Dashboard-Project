@@ -27,5 +27,5 @@ To analyze customer behavior data and identify key factors influencing customer 
 •	Interpreted results and extracted business insights 
 
 # Dashboards
-
+"C:\Users\nalla\Downloads\2026-06-14 19-09-49.pdf"
 
