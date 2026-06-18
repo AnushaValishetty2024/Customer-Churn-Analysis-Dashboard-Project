@@ -17,4 +17,13 @@ To analyze customer behavior data and identify key factors influencing customer 
 
 -Dashboard Interaction <a href="https://github.com/AnushaValishetty2024/Customer-Churn-Analysis-Dashboard-Project/blob/main/churn_dashboard.pbix">View Dashboard</a>
 
+# Process:
+•	Collected and loaded customer dataset (CSV format) 
+•	Performed data cleaning (handled missing values, corrected data types, removed duplicates) 
+•	Conducted exploratory data analysis (EDA) using Python (Pandas, Matplotlib, Seaborn) 
+•	Identified patterns between churn and key variables like tenure, charges, and contract type 
+•	Created SQL queries to validate insights and segment customers 
+•	Built dashboard in Power BI / Excel for visualization of churn trends and KPIs 
+•	Interpreted results and extracted business insights 
+
 
