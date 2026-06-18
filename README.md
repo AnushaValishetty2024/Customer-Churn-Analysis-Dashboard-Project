@@ -28,7 +28,20 @@ To analyze customer behavior data and identify key factors influencing customer 
 •	Interpreted results and extracted business insights 
 
 # Dashboards
-Dashboard Image1 ["C:\Users\nalla\OneDrive\Documents\customer_churn_dashboard\Screenshot 2026-06-18 181729.png"](https://github.com/AnushaValishetty2024/Customer-Churn-Analysis-Dashboard-Project/blob/main/Screenshot%202026-06-18%20181729.png)
+Dashboard Image1 ["C:\Users\nalla\OneDrive\Documents\customer_churn_dashboard\Screenshot 2026-06-18 181729.png"](https://github.com/AnushaValishetty2024/Customer-Churn-Analysis-Dashboard-Project/blob/main/Screenshot%202026-06-18%20181729.png)               
+
 Dashboard Image2 ["C:\Users\nalla\OneDrive\Documents\customer_churn_dashboard\Screenshot 2026-06-18 181753.png"](https://github.com/AnushaValishetty2024/Customer-Churn-Analysis-Dashboard-Project/blob/main/Screenshot%202026-06-18%20181753.png)
+
 Dashboard Image3 ["C:\Users\nalla\OneDrive\Documents\customer_churn_dashboard\Screenshot 2026-06-18 181822.png"](https://github.com/AnushaValishetty2024/Customer-Churn-Analysis-Dashboard-Project/blob/main/Screenshot%202026-06-18%20181822.png)
+
+# Project Insight:
+•	Customers with month-to-month contracts show significantly higher churn 
+•	Higher monthly charges are strongly linked with increased churn risk 
+•	Long-tenure customers are far less likely to leave 
+•	Electronic payment users tend to churn more compared to automated payments 
+•	Lack of long-term contracts is a major retention weakness 
+
+# Final Conclusion:
+Customer churn is primarily driven by contract type, pricing pressure, and payment behavior. Businesses should focus on converting short-term users into long-term contracts and improving pricing strategies for high-risk segments. Retention efforts should target early-stage customers, as churn risk is highest in the initial months.
+
 
